@@ -1,4 +1,4 @@
-# GIN Coin
+# KISS COIN MASTERNODE INSTALLATION
 Shell script to install a [KISS MASTERNODE](https://918kisss.xyz) on a Linux server running Ubuntu 16.04. Use it on your own risk.  
 This script will install **KISS 1.1.0.0**
 
